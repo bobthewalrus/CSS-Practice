@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Python</title>
+        <link rel="stylesheet" type="text/css" href="PythonPractice.css">
+    </head>
+    <body>
+        <div id="wrapper">
+            <div id="header">
+                <div id="Python">
+                    <img id="Python" src="/home/necrotic/Downloads/python.png" alt="Python">
+                </div>
+                <div id="TextSize">
+                    <p> Text Size: <span class="YellowUnderline"> Normal </span> | <span class="YellowUnderline">Large</span></p>
+                </div>
+                <div id="SearchBar">
+                    <div id="SearchBox">
+                        <p>Search</p>
+                    </div>
+                    <div id="GoButton">
+                        <p>Go</p>
+                    </div>
+                </div>
+            </div>
+            <div id ="Navigation">
+                <h3>About    Downloads    Documentation    Community    News    Events</h3>
+            </div>
+            <div id="Main">
+                <div id="LeftList">
+                    <ul>
+                        <li>Docs</li>
+                        <li>Audio/Visual Talks</li>
+                        <li>Beginner's Guide</li>
+                        <li>Developer's Guide</li>
+                        <li>PEP Index</li>
+                        <li>Python Books</li>
+                        <li>FAQ</li>
+                    </ul>
+                </div>
+                <div id="Message">
+                    <div id="Logic">
+                        <p>First appearing in 1991, Python is a general-purpose, high-level, interpreted programming language whose design focus emphasizes code readability. Whether for processing/analyzing data to powering many well-known applications, Python is not only a great language for new programmers but also powerful enough for seasoned developers building whatever they can think of.</p>
+                    </div>
+                    <div id="Poem">
+                        <ul style="list-style-type:none">
+                            <li><h4>Beautiful is better than ugly;</h4></li>
+                            <li><h4>Explicit is better than implicit;</h4></li>
+                            <li><h4>Simple is better than complex;</h4></li>
+                            <li><h4>Complex is better than complicated;</h4></li>
+                            <li><h4>Readability counts;</h4></li>
+                        </ul>
+                        <p><span class="Zen">The Zen of Python</span></p>
+                    </div>
+                </div>
+            </div>
+            <div id="LowerMenu">
+
+                <div id="GettingStarted">
+                    <p>  </p>
+                    <hr>
+                    <h3>Getting Started</h3>
+                    <p>Python can be easy to pick up whether you're a first time programmer or you're experienced with other languages. The following pages are a useful first step to get on your way writing programs with Python!</p>
+                    <ul>
+                        <li><span class="BlueText">Beginner's Guide, Programmers</span></li>
+                        <li><span class="BlueText">Begin<span class="BlueText">ner's Guide, Non-Programmers</span></li>
+                        <li><span class="BlueText">Code sample and snippets for Beginners</span></li>
+                    <ul>
+                </div>
+                <div id="Applications">
+                    <hr>
+                    <p> </p>
+                    <h3>Applications</h3>
+                    <p>The <span class="BlueText">Python Package Index(PyPI)</span> hosts thousands of third-party modules for Python. Both Python's standard library and the community-contributed modules allow for endless possibilities.</p>
+                    <ul>
+                        <li><span class="BlueText">Web and Internet Development</span></li>
+                        <li><span class="BlueText">Database Access</span></li>
+                        <li><span class="BlueText">Desktop GUIs</span></li>
+                        <li><span class="BlueText">Network Programming</span></li>
+                        <li><span class="BlueText">Software and Game Development</span></li>
+                    </ul>
+                </div>
+            </div>
+            <div id="BottomMenu">
+                <p>Help and General Contact &emsp;&emsp; Diversity Initiatives &emsp;&emsp; Submit Website Bugs</p>
+                    <div id="TinyCopyright">
+                        <p>Copyright @2001-2016.</p>
+                    </div>
+            </div>
+        </div><!--end of wrapper-->
+    </body>
+</html>
